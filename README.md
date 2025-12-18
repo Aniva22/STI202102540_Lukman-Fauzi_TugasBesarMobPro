@@ -14,19 +14,25 @@
   Aplikasi mobile berbasis Flutter yang memudahkan pengguna menemukan, menyimpan, dan mengelola destinasi wisata lokal. Dilengkapi dengan peta interaktif dan manajemen data offline.
 </p>
 
+<p align="center">
+  <a href="Travel_Wisata_Lokal.apk">
+    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  </a>
+</p>
+
 ---
 
 ## 📱 Tampilan Aplikasi (Preview)
 
 > _Screenshot aplikasi berjalan._
 
-|                           Landing Page                           |                        Explorer (Pencarian)                        |                         Detail Wisata                          |                     Peta Interaktif                      |
-| :--------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |
-| <img src="assets/images/landing.png" alt="Landing" width="200"/> | <img src="assets/images/explorer.png" alt="Explorer" width="200"/> | <img src="assets/images/detail.png" alt="Detail" width="200"/> | <img src="assets/images/map.png" alt="Map" width="200"/> |
- 
-|                              Dashboard                               |                       Edit Destinasi                       |                               Favorit                            |                         Profil Pengguna                          |
-| :------------------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: |:--------------------------------------------------------: |
-| <img src="assets/images/dashboard.png" alt="Dashboard" width="200"/> | <img src="assets/images/edit.png" alt="Edit" width="200"/> | <img src="assets/images/favorit.png" alt="favorit" width="200"/> | <img src="assets/images/profile.png" alt="Profile" width="200"/> |
+|                           Landing Page                           |                              Dashboard                               |                        Explorer (Pencarian)                        |                         Detail Wisata                          |
+| :--------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------: |
+| <img src="assets/images/landing.png" alt="Landing" width="200"/> | <img src="assets/images/dashboard.png" alt="Dashboard" width="200"/> | <img src="assets/images/explorer.png" alt="Explorer" width="200"/> | <img src="assets/images/detail.png" alt="Detail" width="200"/> |
+
+|                       Edit Destinasi                       |                  Maps (Peta Interaktif)                  |                             Favorit                              |                             Profil                              |
+| :--------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: |
+| <img src="assets/images/edit.png" alt="Edit" width="200"/> | <img src="assets/images/map.png" alt="Map" width="200"/> | <img src="assets/images/favorit.png" alt="Favorit" width="200"/> | <img src="assets/images/profile.png" alt="Profil" width="200"/> |
 
 ---
 
