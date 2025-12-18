@@ -6,7 +6,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="Logo WisataLokal" width="150"/>
+  <img src="assets/images/icon.png" alt="Logo WisataLokal" width="150"/>
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 |                           Landing Page                           |                        Explorer (Pencarian)                        |                         Detail Wisata                          |                     Peta Interaktif                      |
 | :--------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |
 | <img src="assets/images/landing.png" alt="Landing" width="200"/> | <img src="assets/images/explorer.png" alt="Explorer" width="200"/> | <img src="assets/images/detail.png" alt="Detail" width="200"/> | <img src="assets/images/map.png" alt="Map" width="200"/> |
-
-|                              Dashboard                               |                       Edit Destinasi                       |                         Profil Pengguna                          |
-| :------------------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="assets/images/dashboard.png" alt="Dashboard" width="200"/> | <img src="assets/images/edit.png" alt="Edit" width="200"/> | <img src="assets/images/profile.png" alt="Profile" width="200"/> |
+ 
+|                              Dashboard                               |                       Edit Destinasi                       |                               Favorit                            |                         Profil Pengguna                          |
+| :------------------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: |:--------------------------------------------------------: |
+| <img src="assets/images/dashboard.png" alt="Dashboard" width="200"/> | <img src="assets/images/edit.png" alt="Edit" width="200"/> | <img src="assets/images/favorit.png" alt="favorit" width="200"/> | <img src="assets/images/profile.png" alt="Profile" width="200"/> |
 
 ---
 
